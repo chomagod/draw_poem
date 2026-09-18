@@ -1,0 +1,7 @@
+{
+  "name": "시 뽑기",
+  "description": "개인이 직접 좋아하는 시를 저장하고 다양한 조건으로 랜덤하게 뽑아 감상하는 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
